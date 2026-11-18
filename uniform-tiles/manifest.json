@@ -133,10 +133,10 @@
     },
     {
       "collection": "series",
-      "folder": "ai-for-you",
-      "label": "AI for You",
-      "file": "series-ai-for-you.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-ai-for-you.png",
+      "folder": "series",
+      "label": "Series",
+      "file": "series-series.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-series.png",
       "kind": "static",
       "width": 1280,
       "height": 720
@@ -153,16 +153,6 @@
     },
     {
       "collection": "series",
-      "folder": "new-airing",
-      "label": "New & Airing",
-      "file": "series-new-airing.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-new-airing.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "series",
       "folder": "top-rated",
       "label": "Top Rated",
       "file": "series-top-rated.png",
@@ -173,10 +163,90 @@
     },
     {
       "collection": "series",
+      "folder": "new-airing",
+      "label": "New & Airing",
+      "file": "series-new-airing.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-new-airing.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "ai-for-you",
+      "label": "AI for You",
+      "file": "series-ai-for-you.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-ai-for-you.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
       "folder": "indian-series",
       "label": "Indian Series",
       "file": "series-indian-series.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-indian-series.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "series-romance.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-romance.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "thriller",
+      "label": "Thriller & Mystery",
+      "file": "series-thriller.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-thriller.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "comedy",
+      "label": "Comedy",
+      "file": "series-comedy.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-comedy.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "action",
+      "label": "Action",
+      "file": "series-action.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-action.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "fantasy-sci-fi",
+      "label": "Fantasy & Sci-Fi",
+      "file": "series-fantasy-sci-fi.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-fantasy-sci-fi.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "crime",
+      "label": "Crime",
+      "file": "series-crime.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-crime.png",
       "kind": "static",
       "width": 1280,
       "height": 720
