@@ -1430,6 +1430,206 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "live-now",
+      "label": "Live Now",
+      "file": "sports-live-now.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-live-now.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "live-now",
+      "label": "Live Now",
+      "file": "sports-live-now.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-live-now.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "football",
+      "label": "Football",
+      "file": "sports-football.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-football.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "football",
+      "label": "Football",
+      "file": "sports-football.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-football.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "basketball",
+      "label": "Basketball",
+      "file": "sports-basketball.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-basketball.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "basketball",
+      "label": "Basketball",
+      "file": "sports-basketball.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-basketball.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "american-football",
+      "label": "American Football",
+      "file": "sports-american-football.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-american-football.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "american-football",
+      "label": "American Football",
+      "file": "sports-american-football.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-american-football.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "baseball",
+      "label": "Baseball",
+      "file": "sports-baseball.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-baseball.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "baseball",
+      "label": "Baseball",
+      "file": "sports-baseball.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-baseball.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "f1-motor",
+      "label": "F1 & Motor",
+      "file": "sports-f1-motor.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-f1-motor.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "f1-motor",
+      "label": "F1 & Motor",
+      "file": "sports-f1-motor.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-f1-motor.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "college-sports",
+      "label": "College Sports",
+      "file": "sports-college-sports.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-college-sports.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "college-sports",
+      "label": "College Sports",
+      "file": "sports-college-sports.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-college-sports.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "hockey",
+      "label": "Hockey",
+      "file": "sports-hockey.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-hockey.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "hockey",
+      "label": "Hockey",
+      "file": "sports-hockey.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-hockey.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "mma",
+      "label": "MMA",
+      "file": "sports-mma.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-mma.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "mma",
+      "label": "MMA",
+      "file": "sports-mma.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-mma.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "upcoming",
+      "label": "Upcoming",
+      "file": "sports-upcoming.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-upcoming.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "upcoming",
+      "label": "Upcoming",
+      "file": "sports-upcoming.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-upcoming.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     }
   ]
 }
