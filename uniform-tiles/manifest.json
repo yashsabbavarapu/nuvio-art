@@ -252,6 +252,76 @@
       "height": 720
     },
     {
+      "collection": "series",
+      "folder": "drama",
+      "label": "Drama",
+      "file": "series-drama.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-drama.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "horror",
+      "label": "Horror",
+      "file": "series-horror.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-horror.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "mystery",
+      "label": "Mystery",
+      "file": "series-mystery.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-mystery.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "documentary",
+      "label": "Documentary",
+      "file": "series-documentary.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-documentary.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "animation",
+      "label": "Animation",
+      "file": "series-animation.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-animation.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "adventure",
+      "label": "Adventure",
+      "file": "series-adventure.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-adventure.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "family",
+      "label": "Family",
+      "file": "series-family.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-family.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
       "collection": "sports",
       "folder": null,
       "label": "Sports",
