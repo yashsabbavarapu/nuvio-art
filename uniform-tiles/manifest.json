@@ -432,6 +432,16 @@
       "height": 720
     },
     {
+      "collection": "sports",
+      "folder": "cricket",
+      "label": "Cricket",
+      "file": "sports-cricket.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-cricket.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
       "collection": "anime",
       "folder": null,
       "label": "Anime",
@@ -1607,6 +1617,16 @@
       "label": "Real Madrid",
       "file": "sports-real-madrid.gif",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-real-madrid.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": "cricket",
+      "label": "Cricket",
+      "file": "sports-cricket.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-cricket.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
