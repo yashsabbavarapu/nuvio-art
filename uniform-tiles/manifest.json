@@ -842,6 +842,86 @@
       "height": 720
     },
     {
+      "collection": "genres",
+      "folder": null,
+      "label": "Genres",
+      "file": "genres.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": null,
+      "label": "Genres",
+      "file": "genres-poster.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-poster.png",
+      "kind": "static-poster",
+      "width": 1000,
+      "height": 1500
+    },
+    {
+      "collection": "genres",
+      "folder": "fantasy",
+      "label": "Fantasy",
+      "file": "genres-fantasy.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-fantasy.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "horror",
+      "label": "Horror",
+      "file": "genres-horror.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-horror.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "mystery",
+      "label": "Mystery",
+      "file": "genres-mystery.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-mystery.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "genres-romance.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-romance.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "thriller",
+      "label": "Thriller",
+      "file": "genres-thriller.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-thriller.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "sci-fi",
+      "label": "Sci-Fi",
+      "file": "genres-sci-fi.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-sci-fi.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
       "collection": "decades",
       "folder": null,
       "label": "Decades",
