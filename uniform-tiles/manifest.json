@@ -462,6 +462,96 @@
       "height": 720
     },
     {
+      "collection": "c-drama",
+      "folder": "trending",
+      "label": "Trending",
+      "file": "c-drama-trending.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-trending.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "top-rated",
+      "label": "Top Rated",
+      "file": "c-drama-top-rated.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-top-rated.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "new-airing",
+      "label": "New & Airing",
+      "file": "c-drama-new-airing.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-new-airing.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "c-drama-romance.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-romance.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "thriller",
+      "label": "Thriller",
+      "file": "c-drama-thriller.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-thriller.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "historical",
+      "label": "Historical",
+      "file": "c-drama-historical.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-historical.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "comedy",
+      "label": "Comedy",
+      "file": "c-drama-comedy.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-comedy.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "action",
+      "label": "Action",
+      "file": "c-drama-action.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-action.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "fantasy",
+      "label": "Fantasy",
+      "file": "c-drama-fantasy.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-fantasy.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
       "collection": "k-drama",
       "folder": null,
       "label": "K Drama",
