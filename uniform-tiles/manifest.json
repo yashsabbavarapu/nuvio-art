@@ -15,11 +15,31 @@
       "collection": "movies",
       "folder": null,
       "label": "Movies",
+      "file": "movies.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "movies",
+      "folder": null,
+      "label": "Movies",
       "file": "movies-poster.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-poster.png",
       "kind": "static-poster",
       "width": 1000,
       "height": 1500
+    },
+    {
+      "collection": "movies",
+      "folder": null,
+      "label": "Movies",
+      "file": "movies-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
     },
     {
       "collection": "movies",
@@ -33,6 +53,16 @@
     },
     {
       "collection": "movies",
+      "folder": "for-you",
+      "label": "For You",
+      "file": "movies-for-you.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-for-you.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "movies",
       "folder": "trending",
       "label": "Trending",
       "file": "movies-trending.png",
@@ -40,6 +70,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "movies",
+      "folder": "trending",
+      "label": "Trending",
+      "file": "movies-trending.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-trending.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "movies",
@@ -53,6 +93,16 @@
     },
     {
       "collection": "movies",
+      "folder": "new-releases",
+      "label": "New Releases",
+      "file": "movies-new-releases.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-new-releases.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "movies",
       "folder": "action-adventure",
       "label": "Action & Adventure",
       "file": "movies-action-adventure.png",
@@ -60,6 +110,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "movies",
+      "folder": "action-adventure",
+      "label": "Action & Adventure",
+      "file": "movies-action-adventure.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-action-adventure.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "movies",
@@ -73,6 +133,16 @@
     },
     {
       "collection": "movies",
+      "folder": "comedy-drama",
+      "label": "Comedy & Drama",
+      "file": "movies-comedy-drama.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-comedy-drama.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "movies",
       "folder": "horror-thriller",
       "label": "Horror & Thriller",
       "file": "movies-horror-thriller.png",
@@ -80,6 +150,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "movies",
+      "folder": "horror-thriller",
+      "label": "Horror & Thriller",
+      "file": "movies-horror-thriller.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-horror-thriller.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "movies",
@@ -93,6 +173,16 @@
     },
     {
       "collection": "movies",
+      "folder": "sci-fi-fantasy",
+      "label": "Sci-Fi & Fantasy",
+      "file": "movies-sci-fi-fantasy.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-sci-fi-fantasy.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "movies",
       "folder": "indian-cinema",
       "label": "Indian Cinema",
       "file": "movies-indian-cinema.png",
@@ -103,6 +193,16 @@
     },
     {
       "collection": "movies",
+      "folder": "indian-cinema",
+      "label": "Indian Cinema",
+      "file": "movies-indian-cinema.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-indian-cinema.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "movies",
       "folder": "korean-chinese-movies",
       "label": "Korean & Chinese Movies",
       "file": "movies-korean-chinese-movies.png",
@@ -110,6 +210,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "movies",
+      "folder": "korean-chinese-movies",
+      "label": "Korean & Chinese Movies",
+      "file": "movies-korean-chinese-movies.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/movies-korean-chinese-movies.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -125,11 +235,31 @@
       "collection": "series",
       "folder": null,
       "label": "Series",
+      "file": "series.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
+      "folder": null,
+      "label": "Series",
       "file": "series-poster.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-poster.png",
       "kind": "static-poster",
       "width": 1000,
       "height": 1500
+    },
+    {
+      "collection": "series",
+      "folder": null,
+      "label": "Series",
+      "file": "series-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
     },
     {
       "collection": "series",
@@ -143,6 +273,16 @@
     },
     {
       "collection": "series",
+      "folder": "series",
+      "label": "Series",
+      "file": "series-series.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-series.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "trending",
       "label": "Trending",
       "file": "series-trending.png",
@@ -150,6 +290,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "trending",
+      "label": "Trending",
+      "file": "series-trending.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-trending.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -163,6 +313,16 @@
     },
     {
       "collection": "series",
+      "folder": "top-rated",
+      "label": "Top Rated",
+      "file": "series-top-rated.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-top-rated.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "new-airing",
       "label": "New & Airing",
       "file": "series-new-airing.png",
@@ -170,6 +330,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "new-airing",
+      "label": "New & Airing",
+      "file": "series-new-airing.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-new-airing.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -183,6 +353,16 @@
     },
     {
       "collection": "series",
+      "folder": "ai-for-you",
+      "label": "AI for You",
+      "file": "series-ai-for-you.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-ai-for-you.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "indian-series",
       "label": "Indian Series",
       "file": "series-indian-series.png",
@@ -190,6 +370,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "indian-series",
+      "label": "Indian Series",
+      "file": "series-indian-series.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-indian-series.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -203,6 +393,16 @@
     },
     {
       "collection": "series",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "series-romance.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-romance.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "thriller",
       "label": "Thriller & Mystery",
       "file": "series-thriller.png",
@@ -210,6 +410,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "thriller",
+      "label": "Thriller & Mystery",
+      "file": "series-thriller.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-thriller.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -223,6 +433,16 @@
     },
     {
       "collection": "series",
+      "folder": "comedy",
+      "label": "Comedy",
+      "file": "series-comedy.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-comedy.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "action",
       "label": "Action",
       "file": "series-action.png",
@@ -230,6 +450,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "action",
+      "label": "Action",
+      "file": "series-action.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-action.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -243,6 +473,16 @@
     },
     {
       "collection": "series",
+      "folder": "fantasy-sci-fi",
+      "label": "Fantasy & Sci-Fi",
+      "file": "series-fantasy-sci-fi.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-fantasy-sci-fi.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "crime",
       "label": "Crime",
       "file": "series-crime.png",
@@ -250,6 +490,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "crime",
+      "label": "Crime",
+      "file": "series-crime.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-crime.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -263,6 +513,16 @@
     },
     {
       "collection": "series",
+      "folder": "drama",
+      "label": "Drama",
+      "file": "series-drama.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-drama.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "horror",
       "label": "Horror",
       "file": "series-horror.png",
@@ -270,6 +530,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "horror",
+      "label": "Horror",
+      "file": "series-horror.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-horror.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -283,6 +553,16 @@
     },
     {
       "collection": "series",
+      "folder": "mystery",
+      "label": "Mystery",
+      "file": "series-mystery.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-mystery.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "documentary",
       "label": "Documentary",
       "file": "series-documentary.png",
@@ -290,6 +570,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "documentary",
+      "label": "Documentary",
+      "file": "series-documentary.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-documentary.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "series",
@@ -303,6 +593,16 @@
     },
     {
       "collection": "series",
+      "folder": "animation",
+      "label": "Animation",
+      "file": "series-animation.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-animation.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "adventure",
       "label": "Adventure",
       "file": "series-adventure.png",
@@ -313,6 +613,16 @@
     },
     {
       "collection": "series",
+      "folder": "adventure",
+      "label": "Adventure",
+      "file": "series-adventure.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-adventure.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "series",
       "folder": "family",
       "label": "Family",
       "file": "series-family.png",
@@ -320,6 +630,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "series",
+      "folder": "family",
+      "label": "Family",
+      "file": "series-family.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-family.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "sports",
@@ -335,11 +655,31 @@
       "collection": "sports",
       "folder": null,
       "label": "Sports",
+      "file": "sports.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
+      "folder": null,
+      "label": "Sports",
       "file": "sports-poster.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-poster.png",
       "kind": "static-poster",
       "width": 1000,
       "height": 1500
+    },
+    {
+      "collection": "sports",
+      "folder": null,
+      "label": "Sports",
+      "file": "sports-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
     },
     {
       "collection": "sports",
@@ -353,6 +693,16 @@
     },
     {
       "collection": "sports",
+      "folder": "nfl",
+      "label": "NFL",
+      "file": "sports-nfl.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-nfl.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
       "folder": "nba",
       "label": "NBA",
       "file": "sports-nba.png",
@@ -360,6 +710,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "nba",
+      "label": "NBA",
+      "file": "sports-nba.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-nba.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "sports",
@@ -373,6 +733,16 @@
     },
     {
       "collection": "sports",
+      "folder": "ncaa",
+      "label": "NCAA",
+      "file": "sports-ncaa.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-ncaa.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
       "folder": "mlb",
       "label": "MLB",
       "file": "sports-mlb.png",
@@ -380,6 +750,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "mlb",
+      "label": "MLB",
+      "file": "sports-mlb.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-mlb.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "sports",
@@ -393,6 +773,16 @@
     },
     {
       "collection": "sports",
+      "folder": "nhl",
+      "label": "NHL",
+      "file": "sports-nhl.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-nhl.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
       "folder": "ufc",
       "label": "UFC",
       "file": "sports-ufc.png",
@@ -400,6 +790,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "ufc",
+      "label": "UFC",
+      "file": "sports-ufc.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-ufc.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "sports",
@@ -413,6 +813,16 @@
     },
     {
       "collection": "sports",
+      "folder": "lakers",
+      "label": "Lakers",
+      "file": "sports-lakers.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-lakers.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
       "folder": "spurs",
       "label": "Spurs",
       "file": "sports-spurs.png",
@@ -420,6 +830,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "spurs",
+      "label": "Spurs",
+      "file": "sports-spurs.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-spurs.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "sports",
@@ -433,6 +853,16 @@
     },
     {
       "collection": "sports",
+      "folder": "real-madrid",
+      "label": "Real Madrid",
+      "file": "sports-real-madrid.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-real-madrid.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "sports",
       "folder": "cricket",
       "label": "Cricket",
       "file": "sports-cricket.png",
@@ -440,6 +870,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "sports",
+      "folder": "cricket",
+      "label": "Cricket",
+      "file": "sports-cricket.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-cricket.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "anime",
@@ -455,11 +895,31 @@
       "collection": "anime",
       "folder": null,
       "label": "Anime",
+      "file": "anime.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "anime",
+      "folder": null,
+      "label": "Anime",
       "file": "anime-poster.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-poster.png",
       "kind": "static-poster",
       "width": 1000,
       "height": 1500
+    },
+    {
+      "collection": "anime",
+      "folder": null,
+      "label": "Anime",
+      "file": "anime-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
     },
     {
       "collection": "anime",
@@ -473,6 +933,16 @@
     },
     {
       "collection": "anime",
+      "folder": "top-rated",
+      "label": "Top Rated",
+      "file": "anime-top-rated.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-top-rated.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "anime",
       "folder": "latest-release",
       "label": "Latest Release",
       "file": "anime-latest-release.png",
@@ -480,6 +950,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "anime",
+      "folder": "latest-release",
+      "label": "Latest Release",
+      "file": "anime-latest-release.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-latest-release.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "anime",
@@ -493,6 +973,16 @@
     },
     {
       "collection": "anime",
+      "folder": "trending",
+      "label": "Trending",
+      "file": "anime-trending.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-trending.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "anime",
       "folder": "most-popular",
       "label": "Most Popular",
       "file": "anime-most-popular.png",
@@ -500,6 +990,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "anime",
+      "folder": "most-popular",
+      "label": "Most Popular",
+      "file": "anime-most-popular.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-most-popular.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "anime",
@@ -513,6 +1013,16 @@
     },
     {
       "collection": "anime",
+      "folder": "upcoming",
+      "label": "Upcoming",
+      "file": "anime-upcoming.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-upcoming.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "anime",
       "folder": "airing-now",
       "label": "Airing Now",
       "file": "anime-airing-now.png",
@@ -520,6 +1030,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "anime",
+      "folder": "airing-now",
+      "label": "Airing Now",
+      "file": "anime-airing-now.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-airing-now.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "anime",
@@ -533,6 +1053,16 @@
     },
     {
       "collection": "anime",
+      "folder": "last-season",
+      "label": "Last Season",
+      "file": "anime-last-season.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-last-season.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "anime",
       "folder": "this-season",
       "label": "This Season",
       "file": "anime-this-season.png",
@@ -540,6 +1070,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "anime",
+      "folder": "this-season",
+      "label": "This Season",
+      "file": "anime-this-season.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-this-season.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "anime",
@@ -553,6 +1093,16 @@
     },
     {
       "collection": "anime",
+      "folder": "next-season",
+      "label": "Next Season",
+      "file": "anime-next-season.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-next-season.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "anime",
       "folder": "studio-ghibli",
       "label": "Studio Ghibli",
       "file": "anime-studio-ghibli.png",
@@ -560,6 +1110,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "anime",
+      "folder": "studio-ghibli",
+      "label": "Studio Ghibli",
+      "file": "anime-studio-ghibli.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-studio-ghibli.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "anime",
@@ -573,6 +1133,16 @@
     },
     {
       "collection": "anime",
+      "folder": "crunchyroll-top-10",
+      "label": "Crunchyroll Top 10",
+      "file": "anime-crunchyroll-top-10.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-crunchyroll-top-10.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "anime",
       "folder": "hidive",
       "label": "Hidive",
       "file": "anime-hidive.png",
@@ -580,6 +1150,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "anime",
+      "folder": "hidive",
+      "label": "Hidive",
+      "file": "anime-hidive.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/anime-hidive.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "c-drama",
@@ -595,11 +1175,31 @@
       "collection": "c-drama",
       "folder": null,
       "label": "C Drama",
+      "file": "c-drama.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "c-drama",
+      "folder": null,
+      "label": "C Drama",
       "file": "c-drama-poster.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-poster.png",
       "kind": "static-poster",
       "width": 1000,
       "height": 1500
+    },
+    {
+      "collection": "c-drama",
+      "folder": null,
+      "label": "C Drama",
+      "file": "c-drama-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
     },
     {
       "collection": "c-drama",
@@ -613,6 +1213,16 @@
     },
     {
       "collection": "c-drama",
+      "folder": "chinese",
+      "label": "Chinese",
+      "file": "c-drama-chinese.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-chinese.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "c-drama",
       "folder": "trending",
       "label": "Trending",
       "file": "c-drama-trending.png",
@@ -620,6 +1230,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "trending",
+      "label": "Trending",
+      "file": "c-drama-trending.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-trending.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "c-drama",
@@ -633,6 +1253,16 @@
     },
     {
       "collection": "c-drama",
+      "folder": "top-rated",
+      "label": "Top Rated",
+      "file": "c-drama-top-rated.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-top-rated.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "c-drama",
       "folder": "new-airing",
       "label": "New & Airing",
       "file": "c-drama-new-airing.png",
@@ -640,6 +1270,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "new-airing",
+      "label": "New & Airing",
+      "file": "c-drama-new-airing.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-new-airing.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "c-drama",
@@ -653,6 +1293,16 @@
     },
     {
       "collection": "c-drama",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "c-drama-romance.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-romance.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "c-drama",
       "folder": "thriller",
       "label": "Thriller",
       "file": "c-drama-thriller.png",
@@ -660,6 +1310,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "thriller",
+      "label": "Thriller",
+      "file": "c-drama-thriller.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-thriller.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "c-drama",
@@ -673,6 +1333,16 @@
     },
     {
       "collection": "c-drama",
+      "folder": "historical",
+      "label": "Historical",
+      "file": "c-drama-historical.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-historical.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "c-drama",
       "folder": "comedy",
       "label": "Comedy",
       "file": "c-drama-comedy.png",
@@ -680,6 +1350,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "comedy",
+      "label": "Comedy",
+      "file": "c-drama-comedy.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-comedy.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "c-drama",
@@ -693,6 +1373,16 @@
     },
     {
       "collection": "c-drama",
+      "folder": "action",
+      "label": "Action",
+      "file": "c-drama-action.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-action.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "c-drama",
       "folder": "fantasy",
       "label": "Fantasy",
       "file": "c-drama-fantasy.png",
@@ -700,6 +1390,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "c-drama",
+      "folder": "fantasy",
+      "label": "Fantasy",
+      "file": "c-drama-fantasy.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-fantasy.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "k-drama",
@@ -715,11 +1415,31 @@
       "collection": "k-drama",
       "folder": null,
       "label": "K Drama",
+      "file": "k-drama.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "k-drama",
+      "folder": null,
+      "label": "K Drama",
       "file": "k-drama-poster.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-poster.png",
       "kind": "static-poster",
       "width": 1000,
       "height": 1500
+    },
+    {
+      "collection": "k-drama",
+      "folder": null,
+      "label": "K Drama",
+      "file": "k-drama-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
     },
     {
       "collection": "k-drama",
@@ -733,6 +1453,16 @@
     },
     {
       "collection": "k-drama",
+      "folder": "korean",
+      "label": "Korean",
+      "file": "k-drama-korean.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-korean.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "k-drama",
       "folder": "trending",
       "label": "Trending",
       "file": "k-drama-trending.png",
@@ -740,6 +1470,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "k-drama",
+      "folder": "trending",
+      "label": "Trending",
+      "file": "k-drama-trending.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-trending.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "k-drama",
@@ -753,6 +1493,16 @@
     },
     {
       "collection": "k-drama",
+      "folder": "top-rated",
+      "label": "Top Rated",
+      "file": "k-drama-top-rated.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-top-rated.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "k-drama",
       "folder": "new-airing",
       "label": "New & Airing",
       "file": "k-drama-new-airing.png",
@@ -760,6 +1510,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "k-drama",
+      "folder": "new-airing",
+      "label": "New & Airing",
+      "file": "k-drama-new-airing.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-new-airing.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "k-drama",
@@ -773,6 +1533,16 @@
     },
     {
       "collection": "k-drama",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "k-drama-romance.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-romance.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "k-drama",
       "folder": "thriller",
       "label": "Thriller",
       "file": "k-drama-thriller.png",
@@ -780,6 +1550,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "k-drama",
+      "folder": "thriller",
+      "label": "Thriller",
+      "file": "k-drama-thriller.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-thriller.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "k-drama",
@@ -793,6 +1573,16 @@
     },
     {
       "collection": "k-drama",
+      "folder": "historical",
+      "label": "Historical",
+      "file": "k-drama-historical.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-historical.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "k-drama",
       "folder": "comedy",
       "label": "Comedy",
       "file": "k-drama-comedy.png",
@@ -800,6 +1590,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "k-drama",
+      "folder": "comedy",
+      "label": "Comedy",
+      "file": "k-drama-comedy.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-comedy.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "k-drama",
@@ -813,6 +1613,16 @@
     },
     {
       "collection": "k-drama",
+      "folder": "action",
+      "label": "Action",
+      "file": "k-drama-action.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-action.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "k-drama",
       "folder": "fantasy",
       "label": "Fantasy",
       "file": "k-drama-fantasy.png",
@@ -820,6 +1630,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "k-drama",
+      "folder": "fantasy",
+      "label": "Fantasy",
+      "file": "k-drama-fantasy.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/k-drama-fantasy.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "indian",
@@ -835,11 +1655,31 @@
       "collection": "indian",
       "folder": null,
       "label": "Indian",
+      "file": "indian.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
+      "folder": null,
+      "label": "Indian",
       "file": "indian-poster.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-poster.png",
       "kind": "static-poster",
       "width": 1000,
       "height": 1500
+    },
+    {
+      "collection": "indian",
+      "folder": null,
+      "label": "Indian",
+      "file": "indian-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
     },
     {
       "collection": "indian",
@@ -853,6 +1693,16 @@
     },
     {
       "collection": "indian",
+      "folder": "indian",
+      "label": "Indian",
+      "file": "indian-indian.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-indian.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "trending",
       "label": "Trending",
       "file": "indian-trending.png",
@@ -860,6 +1710,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "trending",
+      "label": "Trending",
+      "file": "indian-trending.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-trending.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "indian",
@@ -873,6 +1733,16 @@
     },
     {
       "collection": "indian",
+      "folder": "top-rated",
+      "label": "Top Rated",
+      "file": "indian-top-rated.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-top-rated.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "new-releases",
       "label": "New Releases",
       "file": "indian-new-releases.png",
@@ -880,6 +1750,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "new-releases",
+      "label": "New Releases",
+      "file": "indian-new-releases.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-new-releases.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "indian",
@@ -893,6 +1773,16 @@
     },
     {
       "collection": "indian",
+      "folder": "telugu-series",
+      "label": "Telugu Series",
+      "file": "indian-telugu-series.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-telugu-series.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "telugu-movies",
       "label": "Telugu Movies",
       "file": "indian-telugu-movies.png",
@@ -900,6 +1790,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "telugu-movies",
+      "label": "Telugu Movies",
+      "file": "indian-telugu-movies.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-telugu-movies.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "indian",
@@ -913,6 +1813,16 @@
     },
     {
       "collection": "indian",
+      "folder": "tamil-series",
+      "label": "Tamil Series",
+      "file": "indian-tamil-series.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-tamil-series.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "tamil-movies",
       "label": "Tamil Movies",
       "file": "indian-tamil-movies.png",
@@ -920,6 +1830,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "tamil-movies",
+      "label": "Tamil Movies",
+      "file": "indian-tamil-movies.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-tamil-movies.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "indian",
@@ -933,6 +1853,16 @@
     },
     {
       "collection": "indian",
+      "folder": "hindi-series",
+      "label": "Hindi Series",
+      "file": "indian-hindi-series.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-hindi-series.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "hindi-movies",
       "label": "Hindi Movies",
       "file": "indian-hindi-movies.png",
@@ -940,6 +1870,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "hindi-movies",
+      "label": "Hindi Movies",
+      "file": "indian-hindi-movies.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-hindi-movies.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "indian",
@@ -953,6 +1893,16 @@
     },
     {
       "collection": "indian",
+      "folder": "malayalam-series",
+      "label": "Malayalam Series",
+      "file": "indian-malayalam-series.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-malayalam-series.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "malayalam-movies",
       "label": "Malayalam Movies",
       "file": "indian-malayalam-movies.png",
@@ -960,6 +1910,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "malayalam-movies",
+      "label": "Malayalam Movies",
+      "file": "indian-malayalam-movies.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-malayalam-movies.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "indian",
@@ -973,6 +1933,16 @@
     },
     {
       "collection": "indian",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "indian-romance.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-romance.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "comedy",
       "label": "Comedy",
       "file": "indian-comedy.png",
@@ -980,6 +1950,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "comedy",
+      "label": "Comedy",
+      "file": "indian-comedy.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-comedy.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "indian",
@@ -993,6 +1973,16 @@
     },
     {
       "collection": "indian",
+      "folder": "action",
+      "label": "Action",
+      "file": "indian-action.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-action.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "thriller",
       "label": "Thriller & Mystery",
       "file": "indian-thriller.png",
@@ -1003,6 +1993,16 @@
     },
     {
       "collection": "indian",
+      "folder": "thriller",
+      "label": "Thriller & Mystery",
+      "file": "indian-thriller.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-thriller.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "indian",
       "folder": "drama",
       "label": "Drama",
       "file": "indian-drama.png",
@@ -1010,6 +2010,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "drama",
+      "label": "Drama",
+      "file": "indian-drama.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-drama.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "streaming-services",
@@ -1025,6 +2035,16 @@
       "collection": "streaming-services",
       "folder": null,
       "label": "Streaming Services",
+      "file": "streaming-services.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "streaming-services",
+      "folder": null,
+      "label": "Streaming Services",
       "file": "streaming-services-poster.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-poster.png",
       "kind": "static-poster",
@@ -1033,610 +2053,20 @@
     },
     {
       "collection": "streaming-services",
+      "folder": null,
+      "label": "Streaming Services",
+      "file": "streaming-services-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
+    },
+    {
+      "collection": "streaming-services",
       "folder": "netflix",
       "label": "Netflix",
       "file": "streaming-services-netflix.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-netflix.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "streaming-services",
-      "folder": "prime-video",
-      "label": "Prime Video",
-      "file": "streaming-services-prime-video.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-prime-video.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "streaming-services",
-      "folder": "disney-plus",
-      "label": "Disney+",
-      "file": "streaming-services-disney-plus.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-disney-plus.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "streaming-services",
-      "folder": "hbo-max",
-      "label": "HBO Max",
-      "file": "streaming-services-hbo-max.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-hbo-max.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "streaming-services",
-      "folder": "apple-tv-plus",
-      "label": "Apple TV+",
-      "file": "streaming-services-apple-tv-plus.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-apple-tv-plus.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "streaming-services",
-      "folder": "hulu",
-      "label": "Hulu",
-      "file": "streaming-services-hulu.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-hulu.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "streaming-services",
-      "folder": "peacock",
-      "label": "Peacock",
-      "file": "streaming-services-peacock.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-peacock.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "streaming-services",
-      "folder": "paramount-plus",
-      "label": "Paramount+",
-      "file": "streaming-services-paramount-plus.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-paramount-plus.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "genres",
-      "folder": null,
-      "label": "Genres",
-      "file": "genres.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "genres",
-      "folder": null,
-      "label": "Genres",
-      "file": "genres-poster.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-poster.png",
-      "kind": "static-poster",
-      "width": 1000,
-      "height": 1500
-    },
-    {
-      "collection": "genres",
-      "folder": "fantasy",
-      "label": "Fantasy",
-      "file": "genres-fantasy.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-fantasy.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "genres",
-      "folder": "horror",
-      "label": "Horror",
-      "file": "genres-horror.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-horror.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "genres",
-      "folder": "mystery",
-      "label": "Mystery",
-      "file": "genres-mystery.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-mystery.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "genres",
-      "folder": "romance",
-      "label": "Romance",
-      "file": "genres-romance.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-romance.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "genres",
-      "folder": "thriller",
-      "label": "Thriller",
-      "file": "genres-thriller.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-thriller.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "genres",
-      "folder": "sci-fi",
-      "label": "Sci-Fi",
-      "file": "genres-sci-fi.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-sci-fi.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": null,
-      "label": "Decades",
-      "file": "decades.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": null,
-      "label": "Decades",
-      "file": "decades-poster.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-poster.png",
-      "kind": "static-poster",
-      "width": 1000,
-      "height": 1500
-    },
-    {
-      "collection": "decades",
-      "folder": "2020s",
-      "label": "2020s",
-      "file": "decades-2020s.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2020s.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": "2010s",
-      "label": "2010s",
-      "file": "decades-2010s.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2010s.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": "2000s",
-      "label": "2000s",
-      "file": "decades-2000s.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2000s.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": "1990s",
-      "label": "1990s",
-      "file": "decades-1990s.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1990s.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": "1980s",
-      "label": "1980s",
-      "file": "decades-1980s.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1980s.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": "1970s",
-      "label": "1970s",
-      "file": "decades-1970s.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1970s.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": "1960s",
-      "label": "1960s",
-      "file": "decades-1960s.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1960s.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "decades",
-      "folder": "1950s-before",
-      "label": "1950s & Before",
-      "file": "decades-1950s-before.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1950s-before.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": null,
-      "label": "Franchises",
-      "file": "franchises.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": null,
-      "label": "Franchises",
-      "file": "franchises-poster.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-poster.png",
-      "kind": "static-poster",
-      "width": 1000,
-      "height": 1500
-    },
-    {
-      "collection": "franchises",
-      "folder": "marvel-cinematic-universe",
-      "label": "Marvel Cinematic Universe",
-      "file": "franchises-marvel-cinematic-universe.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-marvel-cinematic-universe.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "harry-potter",
-      "label": "Harry Potter",
-      "file": "franchises-harry-potter.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-harry-potter.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "lord-of-the-rings",
-      "label": "Lord of the Rings",
-      "file": "franchises-lord-of-the-rings.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-lord-of-the-rings.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "star-wars",
-      "label": "Star Wars",
-      "file": "franchises-star-wars.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-star-wars.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "the-hobbit",
-      "label": "The Hobbit",
-      "file": "franchises-the-hobbit.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-hobbit.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "james-bond",
-      "label": "James Bond",
-      "file": "franchises-james-bond.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-james-bond.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "mission-impossible",
-      "label": "Mission Impossible",
-      "file": "franchises-mission-impossible.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-mission-impossible.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "indiana-jones",
-      "label": "Indiana Jones",
-      "file": "franchises-indiana-jones.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-indiana-jones.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "jurassic-park",
-      "label": "Jurassic Park",
-      "file": "franchises-jurassic-park.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-jurassic-park.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "fast-furious",
-      "label": "Fast & Furious",
-      "file": "franchises-fast-furious.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-fast-furious.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "john-wick",
-      "label": "John Wick",
-      "file": "franchises-john-wick.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-john-wick.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "the-matrix",
-      "label": "The Matrix",
-      "file": "franchises-the-matrix.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-matrix.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "the-avengers",
-      "label": "The Avengers",
-      "file": "franchises-the-avengers.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-avengers.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "x-men",
-      "label": "X-Men",
-      "file": "franchises-x-men.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-x-men.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "spider-man",
-      "label": "Spider-Man",
-      "file": "franchises-spider-man.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-spider-man.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "superman",
-      "label": "Superman",
-      "file": "franchises-superman.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-superman.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "batman",
-      "label": "Batman",
-      "file": "franchises-batman.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-batman.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "star-trek",
-      "label": "Star Trek",
-      "file": "franchises-star-trek.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-star-trek.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "alien",
-      "label": "Alien",
-      "file": "franchises-alien.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-alien.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "terminator",
-      "label": "Terminator",
-      "file": "franchises-terminator.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-terminator.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "planet-of-the-apes",
-      "label": "Planet of the Apes",
-      "file": "franchises-planet-of-the-apes.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-planet-of-the-apes.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "transformers",
-      "label": "Transformers",
-      "file": "franchises-transformers.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-transformers.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "hunger-games",
-      "label": "Hunger Games",
-      "file": "franchises-hunger-games.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-hunger-games.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "pirates-of-the-caribbean",
-      "label": "Pirates of the Caribbean",
-      "file": "franchises-pirates-of-the-caribbean.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-pirates-of-the-caribbean.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "shrek",
-      "label": "Shrek",
-      "file": "franchises-shrek.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-shrek.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "how-to-train-your-dragon",
-      "label": "How to Train Your Dragon",
-      "file": "franchises-how-to-train-your-dragon.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-how-to-train-your-dragon.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "despicable-me",
-      "label": "Despicable Me",
-      "file": "franchises-despicable-me.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-despicable-me.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "toy-story",
-      "label": "Toy Story",
-      "file": "franchises-toy-story.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-toy-story.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "dune",
-      "label": "Dune",
-      "file": "franchises-dune.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-dune.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "the-godfather",
-      "label": "The Godfather",
-      "file": "franchises-the-godfather.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-godfather.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "avatar",
-      "label": "Avatar",
-      "file": "franchises-avatar.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-avatar.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "back-to-the-future",
-      "label": "Back to the Future",
-      "file": "franchises-back-to-the-future.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-back-to-the-future.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "franchises",
-      "folder": "dc-universe",
-      "label": "DC Universe",
-      "file": "franchises-dc-universe.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-dc-universe.png",
       "kind": "static",
       "width": 1280,
       "height": 720
@@ -1655,11 +2085,31 @@
       "collection": "streaming-services",
       "folder": "prime-video",
       "label": "Prime Video",
+      "file": "streaming-services-prime-video.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-prime-video.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "streaming-services",
+      "folder": "prime-video",
+      "label": "Prime Video",
       "file": "streaming-services-prime-video.gif",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-prime-video.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
+    },
+    {
+      "collection": "streaming-services",
+      "folder": "disney-plus",
+      "label": "Disney+",
+      "file": "streaming-services-disney-plus.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-disney-plus.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
     },
     {
       "collection": "streaming-services",
@@ -1675,11 +2125,31 @@
       "collection": "streaming-services",
       "folder": "hbo-max",
       "label": "HBO Max",
+      "file": "streaming-services-hbo-max.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-hbo-max.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "streaming-services",
+      "folder": "hbo-max",
+      "label": "HBO Max",
       "file": "streaming-services-hbo-max.gif",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-hbo-max.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
+    },
+    {
+      "collection": "streaming-services",
+      "folder": "apple-tv-plus",
+      "label": "Apple TV+",
+      "file": "streaming-services-apple-tv-plus.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-apple-tv-plus.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
     },
     {
       "collection": "streaming-services",
@@ -1695,11 +2165,31 @@
       "collection": "streaming-services",
       "folder": "hulu",
       "label": "Hulu",
+      "file": "streaming-services-hulu.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-hulu.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "streaming-services",
+      "folder": "hulu",
+      "label": "Hulu",
       "file": "streaming-services-hulu.gif",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-hulu.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
+    },
+    {
+      "collection": "streaming-services",
+      "folder": "peacock",
+      "label": "Peacock",
+      "file": "streaming-services-peacock.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-peacock.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
     },
     {
       "collection": "streaming-services",
@@ -1715,6 +2205,16 @@
       "collection": "streaming-services",
       "folder": "paramount-plus",
       "label": "Paramount+",
+      "file": "streaming-services-paramount-plus.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-paramount-plus.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "streaming-services",
+      "folder": "paramount-plus",
+      "label": "Paramount+",
       "file": "streaming-services-paramount-plus.gif",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/streaming-services-paramount-plus.gif",
       "kind": "animated",
@@ -1722,101 +2222,1061 @@
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "nfl",
-      "label": "NFL",
-      "file": "sports-nfl.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-nfl.gif",
+      "collection": "genres",
+      "folder": null,
+      "label": "Genres",
+      "file": "genres.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": null,
+      "label": "Genres",
+      "file": "genres.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "nba",
-      "label": "NBA",
-      "file": "sports-nba.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-nba.gif",
+      "collection": "genres",
+      "folder": null,
+      "label": "Genres",
+      "file": "genres-poster.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-poster.png",
+      "kind": "static-poster",
+      "width": 1000,
+      "height": 1500
+    },
+    {
+      "collection": "genres",
+      "folder": null,
+      "label": "Genres",
+      "file": "genres-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
+    },
+    {
+      "collection": "genres",
+      "folder": "fantasy",
+      "label": "Fantasy",
+      "file": "genres-fantasy.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-fantasy.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "fantasy",
+      "label": "Fantasy",
+      "file": "genres-fantasy.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-fantasy.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "ncaa",
-      "label": "NCAA",
-      "file": "sports-ncaa.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-ncaa.gif",
+      "collection": "genres",
+      "folder": "horror",
+      "label": "Horror",
+      "file": "genres-horror.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-horror.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "horror",
+      "label": "Horror",
+      "file": "genres-horror.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-horror.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "mlb",
-      "label": "MLB",
-      "file": "sports-mlb.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-mlb.gif",
+      "collection": "genres",
+      "folder": "mystery",
+      "label": "Mystery",
+      "file": "genres-mystery.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-mystery.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "mystery",
+      "label": "Mystery",
+      "file": "genres-mystery.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-mystery.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "nhl",
-      "label": "NHL",
-      "file": "sports-nhl.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-nhl.gif",
+      "collection": "genres",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "genres-romance.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-romance.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "genres-romance.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-romance.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "ufc",
-      "label": "UFC",
-      "file": "sports-ufc.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-ufc.gif",
+      "collection": "genres",
+      "folder": "thriller",
+      "label": "Thriller",
+      "file": "genres-thriller.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-thriller.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "thriller",
+      "label": "Thriller",
+      "file": "genres-thriller.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-thriller.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "lakers",
-      "label": "Lakers",
-      "file": "sports-lakers.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-lakers.gif",
+      "collection": "genres",
+      "folder": "sci-fi",
+      "label": "Sci-Fi",
+      "file": "genres-sci-fi.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-sci-fi.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "genres",
+      "folder": "sci-fi",
+      "label": "Sci-Fi",
+      "file": "genres-sci-fi.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/genres-sci-fi.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "spurs",
-      "label": "Spurs",
-      "file": "sports-spurs.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-spurs.gif",
+      "collection": "decades",
+      "folder": null,
+      "label": "Decades",
+      "file": "decades.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": null,
+      "label": "Decades",
+      "file": "decades.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "real-madrid",
-      "label": "Real Madrid",
-      "file": "sports-real-madrid.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-real-madrid.gif",
+      "collection": "decades",
+      "folder": null,
+      "label": "Decades",
+      "file": "decades-poster.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-poster.png",
+      "kind": "static-poster",
+      "width": 1000,
+      "height": 1500
+    },
+    {
+      "collection": "decades",
+      "folder": null,
+      "label": "Decades",
+      "file": "decades-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
+    },
+    {
+      "collection": "decades",
+      "folder": "2020s",
+      "label": "2020s",
+      "file": "decades-2020s.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2020s.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": "2020s",
+      "label": "2020s",
+      "file": "decades-2020s.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2020s.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
     },
     {
-      "collection": "sports",
-      "folder": "cricket",
-      "label": "Cricket",
-      "file": "sports-cricket.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/sports-cricket.gif",
+      "collection": "decades",
+      "folder": "2010s",
+      "label": "2010s",
+      "file": "decades-2010s.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2010s.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": "2010s",
+      "label": "2010s",
+      "file": "decades-2010s.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2010s.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "decades",
+      "folder": "2000s",
+      "label": "2000s",
+      "file": "decades-2000s.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2000s.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": "2000s",
+      "label": "2000s",
+      "file": "decades-2000s.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-2000s.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "decades",
+      "folder": "1990s",
+      "label": "1990s",
+      "file": "decades-1990s.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1990s.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": "1990s",
+      "label": "1990s",
+      "file": "decades-1990s.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1990s.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "decades",
+      "folder": "1980s",
+      "label": "1980s",
+      "file": "decades-1980s.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1980s.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": "1980s",
+      "label": "1980s",
+      "file": "decades-1980s.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1980s.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "decades",
+      "folder": "1970s",
+      "label": "1970s",
+      "file": "decades-1970s.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1970s.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": "1970s",
+      "label": "1970s",
+      "file": "decades-1970s.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1970s.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "decades",
+      "folder": "1960s",
+      "label": "1960s",
+      "file": "decades-1960s.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1960s.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": "1960s",
+      "label": "1960s",
+      "file": "decades-1960s.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1960s.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "decades",
+      "folder": "1950s-before",
+      "label": "1950s & Before",
+      "file": "decades-1950s-before.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1950s-before.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "decades",
+      "folder": "1950s-before",
+      "label": "1950s & Before",
+      "file": "decades-1950s-before.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/decades-1950s-before.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": null,
+      "label": "Franchises",
+      "file": "franchises.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": null,
+      "label": "Franchises",
+      "file": "franchises.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": null,
+      "label": "Franchises",
+      "file": "franchises-poster.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-poster.png",
+      "kind": "static-poster",
+      "width": 1000,
+      "height": 1500
+    },
+    {
+      "collection": "franchises",
+      "folder": null,
+      "label": "Franchises",
+      "file": "franchises-poster.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-poster.gif",
+      "kind": "animated-poster",
+      "width": 500,
+      "height": 750
+    },
+    {
+      "collection": "franchises",
+      "folder": "marvel-cinematic-universe",
+      "label": "Marvel Cinematic Universe",
+      "file": "franchises-marvel-cinematic-universe.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-marvel-cinematic-universe.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "marvel-cinematic-universe",
+      "label": "Marvel Cinematic Universe",
+      "file": "franchises-marvel-cinematic-universe.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-marvel-cinematic-universe.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "harry-potter",
+      "label": "Harry Potter",
+      "file": "franchises-harry-potter.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-harry-potter.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "harry-potter",
+      "label": "Harry Potter",
+      "file": "franchises-harry-potter.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-harry-potter.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "lord-of-the-rings",
+      "label": "Lord of the Rings",
+      "file": "franchises-lord-of-the-rings.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-lord-of-the-rings.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "lord-of-the-rings",
+      "label": "Lord of the Rings",
+      "file": "franchises-lord-of-the-rings.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-lord-of-the-rings.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "star-wars",
+      "label": "Star Wars",
+      "file": "franchises-star-wars.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-star-wars.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "star-wars",
+      "label": "Star Wars",
+      "file": "franchises-star-wars.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-star-wars.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "the-hobbit",
+      "label": "The Hobbit",
+      "file": "franchises-the-hobbit.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-hobbit.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "the-hobbit",
+      "label": "The Hobbit",
+      "file": "franchises-the-hobbit.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-hobbit.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "james-bond",
+      "label": "James Bond",
+      "file": "franchises-james-bond.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-james-bond.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "james-bond",
+      "label": "James Bond",
+      "file": "franchises-james-bond.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-james-bond.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "mission-impossible",
+      "label": "Mission Impossible",
+      "file": "franchises-mission-impossible.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-mission-impossible.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "mission-impossible",
+      "label": "Mission Impossible",
+      "file": "franchises-mission-impossible.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-mission-impossible.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "indiana-jones",
+      "label": "Indiana Jones",
+      "file": "franchises-indiana-jones.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-indiana-jones.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "indiana-jones",
+      "label": "Indiana Jones",
+      "file": "franchises-indiana-jones.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-indiana-jones.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "jurassic-park",
+      "label": "Jurassic Park",
+      "file": "franchises-jurassic-park.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-jurassic-park.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "jurassic-park",
+      "label": "Jurassic Park",
+      "file": "franchises-jurassic-park.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-jurassic-park.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "fast-furious",
+      "label": "Fast & Furious",
+      "file": "franchises-fast-furious.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-fast-furious.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "fast-furious",
+      "label": "Fast & Furious",
+      "file": "franchises-fast-furious.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-fast-furious.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "john-wick",
+      "label": "John Wick",
+      "file": "franchises-john-wick.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-john-wick.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "john-wick",
+      "label": "John Wick",
+      "file": "franchises-john-wick.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-john-wick.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "the-matrix",
+      "label": "The Matrix",
+      "file": "franchises-the-matrix.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-matrix.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "the-matrix",
+      "label": "The Matrix",
+      "file": "franchises-the-matrix.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-matrix.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "the-avengers",
+      "label": "The Avengers",
+      "file": "franchises-the-avengers.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-avengers.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "the-avengers",
+      "label": "The Avengers",
+      "file": "franchises-the-avengers.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-avengers.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "x-men",
+      "label": "X-Men",
+      "file": "franchises-x-men.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-x-men.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "x-men",
+      "label": "X-Men",
+      "file": "franchises-x-men.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-x-men.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "spider-man",
+      "label": "Spider-Man",
+      "file": "franchises-spider-man.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-spider-man.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "spider-man",
+      "label": "Spider-Man",
+      "file": "franchises-spider-man.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-spider-man.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "superman",
+      "label": "Superman",
+      "file": "franchises-superman.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-superman.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "superman",
+      "label": "Superman",
+      "file": "franchises-superman.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-superman.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "batman",
+      "label": "Batman",
+      "file": "franchises-batman.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-batman.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "batman",
+      "label": "Batman",
+      "file": "franchises-batman.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-batman.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "star-trek",
+      "label": "Star Trek",
+      "file": "franchises-star-trek.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-star-trek.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "star-trek",
+      "label": "Star Trek",
+      "file": "franchises-star-trek.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-star-trek.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "alien",
+      "label": "Alien",
+      "file": "franchises-alien.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-alien.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "alien",
+      "label": "Alien",
+      "file": "franchises-alien.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-alien.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "terminator",
+      "label": "Terminator",
+      "file": "franchises-terminator.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-terminator.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "terminator",
+      "label": "Terminator",
+      "file": "franchises-terminator.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-terminator.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "planet-of-the-apes",
+      "label": "Planet of the Apes",
+      "file": "franchises-planet-of-the-apes.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-planet-of-the-apes.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "planet-of-the-apes",
+      "label": "Planet of the Apes",
+      "file": "franchises-planet-of-the-apes.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-planet-of-the-apes.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "transformers",
+      "label": "Transformers",
+      "file": "franchises-transformers.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-transformers.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "transformers",
+      "label": "Transformers",
+      "file": "franchises-transformers.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-transformers.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "hunger-games",
+      "label": "Hunger Games",
+      "file": "franchises-hunger-games.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-hunger-games.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "hunger-games",
+      "label": "Hunger Games",
+      "file": "franchises-hunger-games.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-hunger-games.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "pirates-of-the-caribbean",
+      "label": "Pirates of the Caribbean",
+      "file": "franchises-pirates-of-the-caribbean.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-pirates-of-the-caribbean.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "pirates-of-the-caribbean",
+      "label": "Pirates of the Caribbean",
+      "file": "franchises-pirates-of-the-caribbean.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-pirates-of-the-caribbean.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "shrek",
+      "label": "Shrek",
+      "file": "franchises-shrek.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-shrek.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "shrek",
+      "label": "Shrek",
+      "file": "franchises-shrek.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-shrek.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "how-to-train-your-dragon",
+      "label": "How to Train Your Dragon",
+      "file": "franchises-how-to-train-your-dragon.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-how-to-train-your-dragon.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "how-to-train-your-dragon",
+      "label": "How to Train Your Dragon",
+      "file": "franchises-how-to-train-your-dragon.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-how-to-train-your-dragon.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "despicable-me",
+      "label": "Despicable Me",
+      "file": "franchises-despicable-me.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-despicable-me.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "despicable-me",
+      "label": "Despicable Me",
+      "file": "franchises-despicable-me.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-despicable-me.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "toy-story",
+      "label": "Toy Story",
+      "file": "franchises-toy-story.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-toy-story.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "toy-story",
+      "label": "Toy Story",
+      "file": "franchises-toy-story.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-toy-story.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "dune",
+      "label": "Dune",
+      "file": "franchises-dune.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-dune.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "dune",
+      "label": "Dune",
+      "file": "franchises-dune.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-dune.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "the-godfather",
+      "label": "The Godfather",
+      "file": "franchises-the-godfather.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-godfather.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "the-godfather",
+      "label": "The Godfather",
+      "file": "franchises-the-godfather.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-the-godfather.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "avatar",
+      "label": "Avatar",
+      "file": "franchises-avatar.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-avatar.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "avatar",
+      "label": "Avatar",
+      "file": "franchises-avatar.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-avatar.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "back-to-the-future",
+      "label": "Back to the Future",
+      "file": "franchises-back-to-the-future.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-back-to-the-future.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "back-to-the-future",
+      "label": "Back to the Future",
+      "file": "franchises-back-to-the-future.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-back-to-the-future.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "franchises",
+      "folder": "dc-universe",
+      "label": "DC Universe",
+      "file": "franchises-dc-universe.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-dc-universe.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "franchises",
+      "folder": "dc-universe",
+      "label": "DC Universe",
+      "file": "franchises-dc-universe.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/franchises-dc-universe.gif",
       "kind": "animated",
       "width": 960,
       "height": 540
@@ -1833,6 +3293,16 @@
     },
     {
       "collection": "shared",
+      "folder": "telugu-cinema",
+      "label": "Telugu Cinema",
+      "file": "shared-telugu-cinema.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/shared-telugu-cinema.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "collection": "shared",
       "folder": "rom-com",
       "label": "Rom-Com",
       "file": "shared-rom-com.png",
@@ -1840,6 +3310,16 @@
       "kind": "static",
       "width": 1280,
       "height": 720
+    },
+    {
+      "collection": "shared",
+      "folder": "rom-com",
+      "label": "Rom-Com",
+      "file": "shared-rom-com.gif",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/shared-rom-com.gif",
+      "kind": "animated",
+      "width": 960,
+      "height": 540
     },
     {
       "collection": "sports",
