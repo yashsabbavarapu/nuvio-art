@@ -822,6 +822,196 @@
       "height": 720
     },
     {
+      "collection": "indian",
+      "folder": null,
+      "label": "Indian",
+      "file": "indian.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": null,
+      "label": "Indian",
+      "file": "indian-poster.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-poster.png",
+      "kind": "static-poster",
+      "width": 1000,
+      "height": 1500
+    },
+    {
+      "collection": "indian",
+      "folder": "indian",
+      "label": "Indian",
+      "file": "indian-indian.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-indian.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "trending",
+      "label": "Trending",
+      "file": "indian-trending.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-trending.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "top-rated",
+      "label": "Top Rated",
+      "file": "indian-top-rated.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-top-rated.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "new-releases",
+      "label": "New Releases",
+      "file": "indian-new-releases.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-new-releases.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "telugu-series",
+      "label": "Telugu Series",
+      "file": "indian-telugu-series.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-telugu-series.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "telugu-movies",
+      "label": "Telugu Movies",
+      "file": "indian-telugu-movies.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-telugu-movies.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "tamil-series",
+      "label": "Tamil Series",
+      "file": "indian-tamil-series.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-tamil-series.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "tamil-movies",
+      "label": "Tamil Movies",
+      "file": "indian-tamil-movies.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-tamil-movies.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "hindi-series",
+      "label": "Hindi Series",
+      "file": "indian-hindi-series.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-hindi-series.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "hindi-movies",
+      "label": "Hindi Movies",
+      "file": "indian-hindi-movies.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-hindi-movies.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "malayalam-series",
+      "label": "Malayalam Series",
+      "file": "indian-malayalam-series.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-malayalam-series.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "malayalam-movies",
+      "label": "Malayalam Movies",
+      "file": "indian-malayalam-movies.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-malayalam-movies.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "romance",
+      "label": "Romance",
+      "file": "indian-romance.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-romance.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "comedy",
+      "label": "Comedy",
+      "file": "indian-comedy.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-comedy.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "action",
+      "label": "Action",
+      "file": "indian-action.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-action.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "thriller",
+      "label": "Thriller & Mystery",
+      "file": "indian-thriller.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-thriller.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "collection": "indian",
+      "folder": "drama",
+      "label": "Drama",
+      "file": "indian-drama.png",
+      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/indian-drama.png",
+      "kind": "static",
+      "width": 1280,
+      "height": 720
+    },
+    {
       "collection": "streaming-services",
       "folder": null,
       "label": "Streaming Services",
