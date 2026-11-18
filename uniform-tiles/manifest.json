@@ -263,26 +263,6 @@
     },
     {
       "collection": "series",
-      "folder": "series",
-      "label": "Series",
-      "file": "series-series.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-series.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "series",
-      "folder": "series",
-      "label": "Series",
-      "file": "series-series.gif",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/series-series.gif",
-      "kind": "animated",
-      "width": 960,
-      "height": 540
-    },
-    {
-      "collection": "series",
       "folder": "trending",
       "label": "Trending",
       "file": "series-trending.png",
