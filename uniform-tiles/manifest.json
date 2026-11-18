@@ -483,16 +483,6 @@
     },
     {
       "collection": "c-drama",
-      "folder": "new-airing",
-      "label": "New & Airing",
-      "file": "c-drama-new-airing.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-new-airing.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "c-drama",
       "folder": "romance",
       "label": "Romance",
       "file": "c-drama-romance.png",
@@ -503,40 +493,10 @@
     },
     {
       "collection": "c-drama",
-      "folder": "thriller",
-      "label": "Thriller",
-      "file": "c-drama-thriller.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-thriller.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "c-drama",
       "folder": "historical",
       "label": "Historical",
       "file": "c-drama-historical.png",
       "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-historical.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "c-drama",
-      "folder": "comedy",
-      "label": "Comedy",
-      "file": "c-drama-comedy.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-comedy.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "c-drama",
-      "folder": "action",
-      "label": "Action",
-      "file": "c-drama-action.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/c-drama-action.png",
       "kind": "static",
       "width": 1280,
       "height": 720
@@ -1390,26 +1350,6 @@
       "kind": "animated",
       "width": 960,
       "height": 540
-    },
-    {
-      "collection": "shared",
-      "folder": "to-watch",
-      "label": "To Watch",
-      "file": "shared-to-watch.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/shared-to-watch.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "collection": "shared",
-      "folder": "comfort",
-      "label": "Comfort",
-      "file": "shared-comfort.png",
-      "url": "https://raw.githubusercontent.com/yashsabbavarapu/nuvio-art/main/uniform-tiles/shared-comfort.png",
-      "kind": "static",
-      "width": 1280,
-      "height": 720
     },
     {
       "collection": "shared",
